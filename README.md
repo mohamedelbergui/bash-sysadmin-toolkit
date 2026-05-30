@@ -6,13 +6,13 @@ Built as part of a DevOps learning path.
 ---
 
 ## 📁 Structure
-
+```
 bash-sysadmin-toolkit/
 ├── backup/
 │   ├── backup.sh        # Creates compressed, timestamped backups
 │   └── cleanup.sh       # Removes backups older than 1 days (via cron)
 └── README.md
-
+```
 ---
 
 ## 🔧 Scripts
